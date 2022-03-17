@@ -1,0 +1,12 @@
+homepage: "https://evmos.org"
+primary_contact: "security@thars.is"
+auto_ccs:
+  - emmanuel@orijtech.com
+  - devtools@tharsis.finance
+  - founders@thars.is
+language: go
+fuzzing_engines:
+  - libfuzzer
+sanitizers:
+  - address
+main_repo: "https://github.com/tharsis/evmos"
